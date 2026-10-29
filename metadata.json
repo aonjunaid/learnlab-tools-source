@@ -1,0 +1,6 @@
+{
+  "name": "LearnLab Tools",
+  "description": "Free tools for everyday tasks, scientific problem-solving and smarter learning. Fast, accessible, and completely private browser-side utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
